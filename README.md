@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/enrichskills38/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/enrichskills38/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/enrichskills38/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -25,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/enrichskills38/LeetCode/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
