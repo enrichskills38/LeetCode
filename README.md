@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/enrichskills38/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/enrichskills38/LeetCode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/enrichskills38/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/enrichskills38/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/enrichskills38/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/enrichskills38/LeetCode/tree/master/0605-can-place-flowers) |
