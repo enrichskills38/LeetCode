@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/enrichskills38/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/enrichskills38/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/enrichskills38/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/enrichskills38/LeetCode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/enrichskills38/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/enrichskills38/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/enrichskills38/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/enrichskills38/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/enrichskills38/LeetCode/tree/master/0189-rotate-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/enrichskills38/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/enrichskills38/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
